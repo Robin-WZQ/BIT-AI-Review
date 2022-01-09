@@ -22,5 +22,5 @@
 5. 善用计算资源，可以用阿里、百度的学生优惠卡进行训练
 6. 无论是大作业还是小作业，能早做就早做，后面真的来不及
 
-这里宣传一下我做的大作业，是有关山水画风格转换的[here]([Robin-WZQ/Chinese-Landscape-Painting-Style-Transfer: Chinese Landscape Painting style transfer by adversarial network（中国山水画风格化） (github.com)](https://github.com/Robin-WZQ/Chinese-Landscape-Painting-Style-Transfer)).
+这里宣传一下我做的大作业，是有关山水画风格转换的[Robin-WZQ/Chinese-Landscape-Painting-Style-Transfer: Chinese Landscape Painting style transfer by adversarial network（中国山水画风格化） (github.com)](https://github.com/Robin-WZQ/Chinese-Landscape-Painting-Style-Transfer).
 
