@@ -14,27 +14,40 @@ vector<vector<int>> blur(vector<vector<int>>src,
     int width_filter)
 ```
 src:待处理的图像 int[]
+
 dst:处理结果
+
 height_src:输入图像的高。即src.size()
-width_src:输入图像的宽。即src[0].size()。
-height_filter:滤波器的高。
-width_filter:滤波器的宽。
+
+width_src:输入图像的宽。即src[0].size()
+
+height_filter:滤波器的高
+
+width_filter:滤波器的宽
 
 1 <= src.size() <= 10000
+
 1 <= src[0].size() <= 10000
+
 1 <= height_filter <= 10000
+
 1 <= width_filter <= 10000
 
 
 输入：
 
 height_src,
+
 width_src,
+
 heiht_filter,
+
 width_filter,
+
 height_src行 width_src列的图像矩阵数据。
 
 输出:
+
 height_src行 width_src列的均值滤波结果。（空格相隔）
 
 测试输入：
