@@ -1,6 +1,7 @@
 # 正向传播实验
 
 秉着讨论的原则，这里大致说下我们组的实现思路之一，希望对后来者能够有所启发。
+相关更详细的说明参考[HERE](https://github.com/Robin-WZQ/Brainlike-learning-system-for-MNist)
 
 ## 前提假设
 
