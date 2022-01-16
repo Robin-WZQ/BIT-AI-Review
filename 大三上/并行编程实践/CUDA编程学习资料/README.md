@@ -16,6 +16,6 @@
 
 成功生成exe文件
 
-![image-20210713094413531](C:/Users/WZQ/AppData/Roaming/Typora/typora-user-images/image-20210713094413531.png)
+![image-20210713094413531](assets/屏幕截图 2021-07-13 094358.png)
 
 - cpptools为vscode下载扩展，类似whl文件，这里通过vsix安装。
