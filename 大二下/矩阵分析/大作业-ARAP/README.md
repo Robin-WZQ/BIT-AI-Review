@@ -30,10 +30,15 @@ cmake 3.18.4，win10，VS2019
 #### 执行操作
 
 cd ./arap
+
 mkdir build
+
 cd build
+
 cmake ..
+
 make
+
 ./deformation
 
 #### 项目基本信息
