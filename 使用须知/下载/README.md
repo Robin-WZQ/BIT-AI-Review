@@ -25,6 +25,6 @@ git pull
 >
 > [svn 下载 github 上的单个目录或文件](https://www.runoob.com/w3cnote/svn-co-github-dir.html)
 
-### 3. [DownGit](https://minhaskamal.github.io/DownGit/#/home)[¶](https://openwhu.github.io/download/#3-downgit)
+### 3. [DownGit](https://minhaskamal.github.io/DownGit/#/home)
 
 只要把目录链接拷贝粘贴，然后点击Download就可以下载目录的压缩文件
