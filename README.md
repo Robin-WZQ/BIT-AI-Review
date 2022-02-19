@@ -52,7 +52,7 @@
 ## 许可
 部分由贡献者编写的许可如下：
 
-[CC-BY-NC-SA：署名-非商业性使用-相同方式共享]{https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh}
+[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 资料来自网络，相关权利由原作者所有，本项目仅用于收集现有资料。
 
