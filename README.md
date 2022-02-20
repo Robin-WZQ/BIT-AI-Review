@@ -2,6 +2,11 @@
 
 作为BIT第一届人工智能专业的学生，即小白鼠，踩过无数的坑，做过n多网上没有代码的作业。故整理至此，一为将来学弟学妹们更好地学习，二为总结一下之前的工作。目前Github上只有北理CS专业的相关资料整理，那么作为第一届AI专业的学生，也希望为后来者留下点什么。欢迎同届、以及后面的学弟学妹们进行补充。希望北理人工智能专业越办越好！！！
 
+
+![GitHub stars](https://img.shields.io/github/stars/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
+
 ## 适合读者
 
 适合读者为：
@@ -52,5 +57,6 @@
 ## 许可
 部分由贡献者编写的许可如下：
 
-[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本仓库的资源默认采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可，有特别说明的除外。这意味着您可以对本仓库中所包含的资源进行复制、发行、修改和创作等，但不得用于商业性目的，在使用时须进行署名，且以相同或兼容的协议进行许可。仓库的资源来自于用户和互联网，其正确性不做保证。
+
 
