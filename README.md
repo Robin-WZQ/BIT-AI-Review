@@ -4,7 +4,6 @@
 
 
 ![GitHub stars](https://img.shields.io/github/stars/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
 
 ## 适合读者
