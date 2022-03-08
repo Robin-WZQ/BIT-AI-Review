@@ -16,7 +16,7 @@
 
 ```
 # clone命令 
-git clone https://github.com/Robin-WZQ/Back-up.git
+git clone https://github.com/Robin-WZQ/BIT-AI-personal-review.git
 # pull更新 
 git pull
 ```
