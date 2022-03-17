@@ -27,4 +27,4 @@ git pull
 
 ### 3. [DownGit](https://minhaskamal.github.io/DownGit/#/home)
 
-只要把目录链接拷贝粘贴，然后点击Download就可以下载目录的压缩文件
+只要把目录链接拷贝粘贴，然后点击Download就可以下载目录的压缩文件，但路径名好像是英文才行……
