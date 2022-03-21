@@ -16,5 +16,5 @@
 ### 建议
 
 - 这门课可以说是有生最难系列之一，但是一定要坚持学下来，老师给分很宽松，学下来90+很轻松
-- typora去年开始收费了，我这里提供一个原始免费版本的[安装包](https://pan.baidu.com/s/1_bd3MGZy4pe0_jdP5fknhw)，code:lh61
+- typora去年开始收费了，这里有一个免费安装地址：https://wws.lanzouo.com/b0d9o1i6h 密码:9mba
 - 老师会提供给同学做科研的机会，19级部分同学靠这个投了篇AAAI
