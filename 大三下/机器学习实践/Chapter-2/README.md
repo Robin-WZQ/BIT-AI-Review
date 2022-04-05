@@ -1,6 +1,5 @@
 # 第二章作业说明
 
-王中琦 1120190892
 
 ### Code Tree（以函数形式编写的代码风格）
 
@@ -169,7 +168,8 @@ class LinearNet(nn.Cell):
 
 - 随机森林结果最好
 
-![output](C:\Users\24857\Desktop\output.png)
+![output](https://user-images.githubusercontent.com/60317828/161773488-734bd4a0-6141-490f-a3d2-f6aad15a154c.png)
+
 
 - 随机森林模型调参结果
 
