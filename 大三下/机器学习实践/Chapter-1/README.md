@@ -53,7 +53,8 @@
 
 #### 结果如下：
 
-<img src="C:\Users\24857\AppData\Roaming\Typora\typora-user-images\image-20220405190710124.png" alt="image-20220405190710124" style="zoom: 80%;" />
+<img width="191" alt="output6" src="https://user-images.githubusercontent.com/60317828/161772587-a5ad589d-2d90-48c3-8823-65b6b6e14e38.png">
+
 
 ------
 
@@ -85,4 +86,5 @@
 
 #### 结果如下：
 
-<img src="C:\Users\24857\Desktop\output2.png" alt="output2" style="zoom:80%;" />
+![output2](https://user-images.githubusercontent.com/60317828/161772623-20b60776-a123-40d2-a9b3-49a5988161b4.png)
+
