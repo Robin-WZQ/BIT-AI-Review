@@ -1,7 +1,5 @@
 # 第三章作业说明
 
-王中琦 1120190892
-
 ### Code Tree
 
 |ML源码
@@ -53,7 +51,7 @@
 
 #### 结果如下
 
-![output3](C:\Users\24857\Desktop\output3.png)
+![output3](https://user-images.githubusercontent.com/60317828/161773960-3fad3f18-8b84-4f44-82ad-efa3cb4e13a9.png)
 
 ------
 
@@ -94,7 +92,7 @@
 
 #### 结果如下
 
-![output4](C:\Users\24857\Desktop\output4.png)
+![output4](https://user-images.githubusercontent.com/60317828/161773994-108fcceb-69bb-483c-98a7-3a3ef988e070.png)
 
 ------
 
@@ -153,4 +151,4 @@
 
 #### 结果如下：
 
-![output5](C:\Users\24857\Desktop\output5.png)
+![output5](https://user-images.githubusercontent.com/60317828/161774023-8de04d2e-fdf1-4d61-bdaf-71caeb1d3f28.png)
