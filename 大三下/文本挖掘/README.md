@@ -1,0 +1,17 @@
+## 文本挖掘
+
+### 课程说明
+
+- 被严重低估的一门课，对于NLP感兴趣的请一定要上，讲的真是很全面了
+- 成绩：两个小作业45%+平时出勤5%+大作业50%（report+presentation）
+- 英文课件
+- 最后大作业是组队参加比赛
+
+
+
+### 关于大作业
+
+我们参加了[2022语言与智能技术竞赛：段落检索 - 飞桨AI Studio (baidu.com)](https://aistudio.baidu.com/aistudio/competition/detail/157/0/introduction) 这个比赛。
+
+最终在大佬的带领下，A榜排名13/64，成功晋级复赛！
+
