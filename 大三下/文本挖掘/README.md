@@ -13,7 +13,7 @@
 
 ### 关于大作业
 
-我们参加了[2022语言与智能技术竞赛：段落检索 - 飞桨AI Studio (baidu.com)](https://aistudio.baidu.com/aistudio/competition/detail/157/0/introduction) 这个比赛。
+我们被要求参加[2022语言与智能技术竞赛：段落检索 - 飞桨AI Studio (baidu.com)](https://aistudio.baidu.com/aistudio/competition/detail/157/0/introduction) 这个比赛。
 
 最终在大佬的带领下，A榜排名13/64，成功晋级复赛！
 
