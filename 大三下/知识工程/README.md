@@ -15,4 +15,4 @@
 
 ### 我的大作业
 
-代码参考这里，我是参加了中文医疗信息挑战赛，做的关系抽取任务，代码参考这里 https://github.com/Robin-WZQ/CBLUE_CMeIE_model
+我是参加了中文医疗信息挑战赛，做的关系抽取任务，代码参考这里 https://github.com/Robin-WZQ/CBLUE_CMeIE_model
