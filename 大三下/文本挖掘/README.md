@@ -7,7 +7,9 @@
 - 英文课件
 - 最后大作业是组队参加比赛
 
+### 关于小作业
 
+我开源在了https://github.com/Robin-WZQ/COVID-19-Literature-QA ，欢迎各位指点
 
 ### 关于大作业
 
