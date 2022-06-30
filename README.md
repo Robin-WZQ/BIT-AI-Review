@@ -1,10 +1,10 @@
 # 北京理工大学-人工智能专业-总结与回顾
 
-作为BIT第一届人工智能专业的学生，即小白鼠，踩过无数的坑，真黑暗中摸索前进。故将部分自己的资料整理至此，一为将来学弟学妹们更好地学习，二为总结一下之前的工作。目前Github上只有北理CS专业的相关资料整理，那么作为第一届AI专业的学生，也希望为后来者留下点什么。欢迎同届、以及后面的学弟学妹们进行补充。希望北理人工智能专业越办越好！！！
-
-
 ![GitHub stars](https://img.shields.io/github/stars/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
+
+
+作为BIT第一届人工智能专业的学生，即小白鼠，踩过无数的坑，真黑暗中摸索前进。故将部分自己的资料整理至此，一为将来学弟学妹们更好地学习，二为总结一下之前的工作。目前Github上只有北理CS专业的相关资料整理，那么作为第一届AI专业的学生，也希望为后来者留下点什么。欢迎同届、以及后面的学弟学妹们进行补充。希望北理人工智能专业越办越好！！！
 
 ## 适合读者
 
