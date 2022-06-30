@@ -56,6 +56,7 @@
   - [概率统计](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/概率统计)
   - [离散数学](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/离散数学)
   - [马原](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/马原)
+  - [Python语言程序设计](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/Python)
   - JAVA语言程序设计（暂无）
 - 大二下
   - [人工智能](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/人工智能)
