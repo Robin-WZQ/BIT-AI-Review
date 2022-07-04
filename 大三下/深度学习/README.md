@@ -1,5 +1,7 @@
 # 深度学习
 
+![way](https://user-images.githubusercontent.com/60317828/177083125-425e08d6-80b6-45b2-a5fd-fc8a46fbe348.png)
+
 ### 课程描述
 
 - 必修，一周3节，8个实验+对应报告，无考试（但愿）
