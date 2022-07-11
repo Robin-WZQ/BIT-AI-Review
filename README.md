@@ -43,50 +43,45 @@
 ## 课程目录
 
 包含人工智能专业近90%的课程：
-
-- 大二上
-  - [大学物理II](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/大学物理II)
-  - [数据结构与算法设计与计算理论](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/数据结构与算法设计与计算理论)
-  - [概率统计](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/概率统计)
-  - [离散数学](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/离散数学)
-  - [马原](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/马原)
-  - [Python语言程序设计](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/Python)
-  - JAVA语言程序设计（暂无）
-- 大二下
-  - [人工智能](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/人工智能)
-  - [数字逻辑基础](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/数字逻辑基础)
-  - [数据库原理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/数据库原理)
-  - [最优化方法](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/最优化方法)
-  - [机器学习](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/机器学习)
-  - [毛概](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/毛概)
-  - [矩阵分析](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/矩阵分析)
-  - [认知科学导论](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/认知科学导论)
-  - [随机过程](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/随机过程)
-  - 面向对象技术与方法（暂无）
-- 大三上（最忙的一年）
-  - [小学期工程实训](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/小学期工程实训)
-  - [并行编程实践](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/并行编程实践)
-  - [强化学习](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/强化学习)
-  - [操作系统](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/操作系统)
-  - [数字图像处理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/数字图像处理)
-  - [算法博弈论](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/算法博弈论)
-  - [自然语言处理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/自然语言处理)
-  - [计算机组成原理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/计算机组成原理)
-  - [计算机网络](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/计算机网络)
-  - [计算机视觉](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/计算机视觉)
-  - [认知神经科学](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/认知神经科学)
-  - 语音识别与合成（暂无）
-- 大三下
-  - [大数据处理与应用](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/大数据处理与应用)
-  - [文本挖掘](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/文本挖掘)
-  - [机器学习实践](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/机器学习实践)
-  - [深度学习](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/深度学习)
-  - [知识工程](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/知识工程)
-  - [编译原理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/编译原理)
-  - 模式识别（暂无）
-  - 智能计算工程实践（暂无）
-  - 人机交互（暂无）
-  - 计算摄像学（暂无）
+|  学期  |                           课程名称                           | 授课教师 |
+| :----: | :----------------------------------------------------------: | :------: |
+| 大二上 | [大学物理II](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/大学物理II) |          |
+|        | [数据结构与算法设计与计算理论](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/数据结构与算法设计与计算理论) |          |
+|        | [概率统计](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/概率统计) |          |
+|        | [离散数学](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/离散数学) |          |
+|        | [马原](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二上/马原) |          |
+|        |                   JAVA语言程序设计（暂无）                   |          |
+| 大二下 | [人工智能](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/人工智能) |          |
+|        | [数字逻辑基础](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/数字逻辑基础) |          |
+|        | [数据库原理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/数据库原理) |          |
+|        | [最优化方法](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/最优化方法) |          |
+|        | [机器学习](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/机器学习) |          |
+|        | [毛概](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/毛概) |          |
+|        | [矩阵分析](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/矩阵分析) |          |
+|        | [认知科学导论](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/认知科学导论) |          |
+|        | [随机过程](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大二下/随机过程) |          |
+|        |                  面向对象技术与方法（暂无）                  |          |
+| 大三上 | [小学期工程实训](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/小学期工程实训) |          |
+|        | [并行编程实践](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/并行编程实践) |          |
+|        | [强化学习](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/强化学习) |          |
+|        | [操作系统](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/操作系统) |          |
+|        | [数字图像处理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/数字图像处理) |          |
+|        | [算法博弈论](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/算法博弈论) |          |
+|        | [自然语言处理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/自然语言处理) |          |
+|        | [计算机网络](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/计算机网络) |          |
+|        | [计算机视觉](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/计算机视觉) |          |
+|        | [认知神经科学](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三上/认知神经科学) |          |
+|        |                    语音识别与合成（暂无）                    |          |
+| 大三下 | [大数据处理与应用](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/大数据处理与应用) |          |
+|        | [文本挖掘](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/文本挖掘) |          |
+|        | [机器学习实践](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/机器学习实践) |          |
+|        | [深度学习](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/深度学习) |          |
+|        | [知识工程](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/知识工程) |          |
+|        | [编译原理](https://github.com/Robin-WZQ/BIT-AI-personal-review/tree/main/大三下/编译原理) |          |
+|        |                       模式识别（暂无）                       |          |
+|        |                   智能计算工程实践（暂无）                   |          |
+|        |                       人机交互（暂无）                       |          |
+|        |                      计算摄像学（暂无）                      |          |
   
 未完待续……
 
