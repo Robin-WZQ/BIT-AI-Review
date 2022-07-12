@@ -28,3 +28,5 @@ git pull
 ### 3. [DownGit](http://zhoudaxiaa.gitee.io/downgit/#/home)
 
 只要把目录链接拷贝粘贴，然后点击Download就可以下载目录的压缩文件
+
+或者在这里下载[git clone](https://gitclone.com/)
