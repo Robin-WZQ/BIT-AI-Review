@@ -51,7 +51,7 @@
 |        | [概率统计](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/概率统计) |      卢筠      |   考试   |   必修   |  ✅   |
 |        | [离散数学](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/离散数学) |     李建武     |   考试   |   必修   |  ✅   |
 |        | [马原](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/马原) |     莫小丽     |   考试   |   必修   |      |
-|        | [Python](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/Python) |       不一定       |   考试   |   必修   |      |
+|        | [Python](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/Python) |       不定       |   考试   |   必修   |      |
 |        |                   JAVA语言程序设计（暂无）                   |      刘斌      |   考试   |   选修   |      |
 | 大二下 | [人工智能](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/人工智能) |     刘峡壁     |   考试   |   必修   |  ✅   |
 |        | [数字逻辑基础](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/数字逻辑基础) |     黄永刚     |   考试   |   必修   |      |
