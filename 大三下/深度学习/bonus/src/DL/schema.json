@@ -1,0 +1,14 @@
+{"subject_type": "人物", "predicate": "会见", "object_type": "人物"}
+{"subject_type": "人物", "predicate": "任职/拟任", "object_type": "职位"}
+{"subject_type": "人物", "predicate": "离任", "object_type": "职位"}
+{"subject_type": "人物", "predicate": "成员", "object_type": "组织机构"}
+{"subject_type": "会议", "predicate": "举办地", "object_type": "地点"}
+{"subject_type": "组织机构", "predicate": "召开", "object_type": "会议"}
+{"subject_type": "会议", "predicate": "通过", "object_type": "文件/决议/条例"}
+{"subject_type": "人物", "predicate": "出席", "object_type": "会议"}
+{"subject_type": "人物", "predicate": "主持", "object_type": "会议"}
+{"subject_type": "组织机构", "predicate": "制定/发布", "object_type": "文件/决议/条例"}
+{"subject_type": "人物", "predicate": "指示/指挥", "object_type": "公共事件"}
+{"subject_type": "公共事件", "predicate": "发生地", "object_type": "地点"}
+{"subject_type": "组织机构", "predicate": "响应/处理", "object_type": "公共事件"}
+{"subject_type": "人物", "predicate": "提出/持有/强调", "object_type": "观点"}
