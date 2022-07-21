@@ -1,4 +1,4 @@
-# 北京理工大学-人工智能专业-总结与回顾
+# 北京理工大学-人工智能专业-通关经验包
 
 ![GitHub stars](https://img.shields.io/github/stars/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
@@ -38,6 +38,7 @@
 - 开放性实验的代码（比如CV的term project，认知神经科学的正向传播等），大家可以借鉴一下灵感，毕竟是开放性的作业
 - 有关这门课的课程描述、复习建议与书籍使用（若没有就证明不需要看书）
 - 报告的模板（软实力也很重要啊~）
+- 一些关于人工智能专业的Q&A（来自于学弟学妹问我有关ai专业的问题）
 <!-- - 关于在人工智能专业这两年的一些个人感悟 -->
 
 ## 课程目录
