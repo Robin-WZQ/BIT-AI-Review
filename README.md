@@ -48,6 +48,7 @@
 |  学期  |                           课程名称                           |    授课教师    | 考核方式 | 课程性质 | 往年试卷 |
 | :----: | :----------------------------------------------------------: | :------------: | :------: | :------: | :--: |
 | 大二上 | [大学物理II](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/大学物理II) |     石丽洁     |   考试   |   必修   |  ✅   |
+|        | [程序设计实践小学期](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/小学期)|      不定       |   机试   |   必修 |   |
 |        | [数据结构与算法设计与计算理论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/数据结构与算法设计与计算理论) | 林永钢、高春晓 |   考试   |   必修   |  ✅   |
 |        | [概率统计](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/概率统计) |      卢筠      |   考试   |   必修   |  ✅   |
 |        | [离散数学](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/离散数学) |     李建武     |   考试   |   必修   |  ✅   |
