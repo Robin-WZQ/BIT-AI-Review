@@ -6,7 +6,7 @@
 
 ### [# 关于保研](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/%E4%B8%AA%E4%BA%BA%E6%84%9F%E6%83%B3/%E5%85%B3%E4%BA%8E%E4%BF%9D%E7%A0%94.md)
 
-### [# 关于夏令营](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/关于夏令营.md)
+### [# 关于夏令营](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/个人感想/关于夏令营.md)
 
 
 ## 一直想列一下在ai这两年做过的实验：
