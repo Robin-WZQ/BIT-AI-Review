@@ -1,4 +1,4 @@
-# 北京理工大学-人工智能专业-通关经验包
+# 北京理工大学-本科-人工智能专业-通关经验包
 
 ![GitHub stars](https://img.shields.io/github/stars/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Robin-WZQ/BIT-AI-personal-review.svg?style=social)
