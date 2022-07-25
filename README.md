@@ -77,6 +77,7 @@
 |        | [计算机网络](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机网络) |                |   考试   |   选修   |      |
 |        | [计算机视觉](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机视觉) |      付莹      |   考试   |   必修   |  ✅   |
 |        | [认知神经科学](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/认知神经科学) |      吴昊      |   考查   |   选修   |      |
+|        | [计算机组成原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机组成原理)|    王娟    |   考试   |   必修   |      |
 |        |                    语音识别与合成（暂无）                    |                |   考查   |   选修   |      |
 | 大三下 | [大数据处理与应用](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/大数据处理与应用) |     张华平     |  考试*   |   必修   |      |
 |        | [文本挖掘](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/文本挖掘) |      高扬      |   考查   |   选修   |      |
