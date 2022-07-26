@@ -9,7 +9,7 @@
 
 ### 关于小作业
 
-我开源在了https://github.com/Robin-WZQ/COVID-19-Literature-QA ，欢迎各位指点
+尽管方向固定，但做法多样。我开源在了https://github.com/Robin-WZQ/COVID-19-Literature-QA ，欢迎各位指点。
 
 ### 关于大作业
 
