@@ -70,7 +70,7 @@ class TextDataSet(Dataset):
     
     def get_classes_for_all_imgs(self):
         '''
-        标签平衡是需要计算
+        标签平衡时需要计算
         '''
         return self.classes_for_all_imgs
 
