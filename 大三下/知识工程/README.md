@@ -17,7 +17,7 @@
 
 ### 我的大作业
 
-我是参加了中文医疗信息挑战赛，做的关系抽取任务，代码参考这里 https://github.com/Robin-WZQ/CBLUE_CMeIE_model
+老师没要求具体内容，我是参加了中文医疗信息挑战赛，做的关系抽取任务，代码参考这里 https://github.com/Robin-WZQ/CBLUE_CMeIE_model
 
 ### 使用书籍
 不使用，但会有推荐阅读书目
