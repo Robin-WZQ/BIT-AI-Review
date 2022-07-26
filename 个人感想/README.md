@@ -9,9 +9,4 @@
 ### [# 关于夏令营](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/个人感想/关于夏令营.md)
 
 
-## 一直想列一下在ai这两年做过的实验：
-
-竟写过这么多实验！
-
-
 尽吾志了，也达不到的话，也没有遗憾了吧
