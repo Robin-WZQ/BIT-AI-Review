@@ -7,5 +7,3 @@
 ### [# 关于保研](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/个人感想/关于保研.md)
 
 ### [# 关于夏令营](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/个人感想/关于夏令营.md)
-
-尽吾志了，也达不到的话，也没有遗憾了吧
