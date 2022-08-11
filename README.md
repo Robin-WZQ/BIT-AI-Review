@@ -48,48 +48,48 @@
 
 包含人工智能专业近90%的课程：
 
-|  学期  |                           课程名称                           |    授课教师    | 考核方式 | 课程性质 | 往年试卷 |
-| :----: | :----------------------------------------------------------: | :------------: | :------: | :------: | :--: |
-| 大二上 | [大学物理II](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/大学物理II) |     石丽洁     |   考试   |   必修   |  ✅   |
-|        | [程序设计实践小学期](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/小学期)|      不定       |   机试   |   必修 |   |
-|        | [数据结构与算法设计与计算理论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/数据结构与算法设计与计算理论) | 林永钢、高春晓 |   考试   |   必修   |  ✅   |
-|        | [概率统计](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/概率统计) |      卢筠      |   考试   |   必修   |  ✅   |
-|        | [离散数学](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/离散数学) |     李建武     |   考试   |   必修   |  ✅   |
-|        | [马原](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/马原) |     莫小丽     |   考试   |   必修   |      |
-|        | [Python](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/Python) |       不定       |   考试   |   必修   |      |
-|        |                   JAVA语言程序设计（暂无）                   |      刘斌      |   考试   |   选修   |      |
-| 大二下 | [人工智能](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/人工智能) |     刘峡壁     |   考试   |   必修   |  ✅   |
-|        | [数字逻辑基础](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/数字逻辑基础) |     黄永刚     |   考试   |   必修   |      |
-|        | [数据库原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/数据库原理) |      孙新      |   考试   |   必修   |      |
-|        | [最优化方法](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/最优化方法) |     余皓然     |   考试   |   选修   |      |
-|        | [机器学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/机器学习) |      李侃      |   考试   |   必修   |      |
-|        | [毛概](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/毛概) |     祝猛昌     |   考试   |   必修   |      |
-|        | [矩阵分析](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/矩阵分析) |      张磊      |   考试   |   必修   |      |
-|        | [认知科学导论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/认知科学导论) |     贾云得     |   考试   |   选修   |      |
-|        | [随机过程](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/随机过程) |     逄金辉     |   考试   |   必修   |      |
-|        |                  面向对象技术与方法（暂无）                  |                |   考试   |   选修   |      |
-| 大三上 | [小学期工程实训](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/小学期工程实训) |      不定      |   考查   |   必修   |      |
-|        | [并行编程实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/并行编程实践) |     王一拙     |   考查   |   必修   |      |
-|        | [强化学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/强化学习) |      礼欣      |   考查   |   选修   |      |
-|        | [操作系统](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/操作系统) |     刘美华     |   考试   |   必修   |  ✅   |
-|        | [数字图像处理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/数字图像处理) |      梁玮      |   考试   |   选修   |      |
-|        | [算法博弈论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/算法博弈论) |     刘正阳     |   考查   |   选修   |      |
-|        | [自然语言处理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/自然语言处理) |  鉴萍、黄河燕  |   考试   |   必修   |      |
-|        | [计算机网络](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机网络) |                |   考试   |   选修   |      |
-|        | [计算机视觉](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机视觉) |      付莹      |   考试   |   必修   |     |
-|        | [认知神经科学](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/认知神经科学) |      吴昊      |   考查   |   选修   |      |
-|        | [计算机组成原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机组成原理)|    王娟    |   考试   |   必修   |      |
-|        |                    语音识别与合成（暂无）                    |                |   考查   |   选修   |      |
-| 大三下 | [大数据处理与应用](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/大数据处理与应用) |     张华平     |  考试*   |   必修   |      |
-|        | [文本挖掘](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/文本挖掘) |      高扬      |   考查   |   选修   |      |
-|        | [机器学习实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/机器学习实践) |      李侃      |   考查   |   必修   |      |
-|        | [深度学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/深度学习) |      孙新      |  考试*   |   必修   |      |
-|        | [知识工程](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/知识工程) |      辛欣      |   考查   |   选修   |      |
-|        | [编译原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/编译原理) |      李鹏      |   考试   |   必修   |  ✅   |
-|        |                       模式识别（暂无）                       |                |   考查   |   选修   |      |
-|        |                   智能计算工程实践（暂无）                   |      鉴萍      |   考查   |   选修   |      |
-|        |                       人机交互（暂无）                       |      梁玮      |   考查   |   选修   |      |
-|        |                      计算摄像学（暂无）                      |     王立志     |   考查   |   选修   |      |
+|  学期  |                           课程名称                           | 考核方式 | 课程性质 | 往年试卷 |
+| :----: | :----------------------------------------------------------: | :------: | :------: | :--: |
+| 大二上 | [大学物理II](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/大学物理II) |   考试   |   必修   |  ✅   |
+|        | [程序设计实践小学期](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/小学期)|   机试   |   必修 |   |
+|        | [数据结构与算法设计与计算理论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/数据结构与算法设计与计算理论) |   考试   |   必修   |  ✅   |
+|        | [概率统计](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/概率统计) |   考试   |   必修   |  ✅   |
+|        | [离散数学](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/离散数学) |   考试   |   必修   |  ✅   |
+|        | [马原](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/马原) |   考试   |   必修   |      |
+|        | [Python](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/Python) |   考试   |   必修   |      |
+|        |                   JAVA语言程序设计（暂无）                   |   考试   |   选修   |      |
+| 大二下 | [人工智能](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/人工智能) |   考试   |   必修   |  ✅   |
+|        | [数字逻辑基础](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/数字逻辑基础) |   考试   |   必修   |      |
+|        | [数据库原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/数据库原理) |   考试   |   必修   |      |
+|        | [最优化方法](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/最优化方法) |   考试   |   选修   |      |
+|        | [机器学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/机器学习) |   考试   |   必修   |      |
+|        | [毛概](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/毛概) |   考试   |   必修   |      |
+|        | [矩阵分析](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/矩阵分析) |   考试   |   必修   |      |
+|        | [认知科学导论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/认知科学导论) |   考试   |   选修   |      |
+|        | [随机过程](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/随机过程) |   考试   |   必修   |      |
+|        |                  面向对象技术与方法（暂无）                  |   考试   |   选修   |      |
+| 大三上 | [小学期工程实训](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/小学期工程实训) |   考查   |   必修   |      |
+|        | [并行编程实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/并行编程实践) |   考查   |   必修   |      |
+|        | [强化学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/强化学习) |   考查   |   选修   |      |
+|        | [操作系统](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/操作系统) |   考试   |   必修   |  ✅   |
+|        | [数字图像处理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/数字图像处理) |   考试   |   选修   |      |
+|        | [算法博弈论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/算法博弈论) |   考查   |   选修   |      |
+|        | [自然语言处理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/自然语言处理) |   考试   |   必修   |      |
+|        | [计算机网络](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机网络) |   考试   |   选修   |      |
+|        | [计算机视觉](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机视觉) |   考试   |   必修   |  ✅   |
+|        | [认知神经科学](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/认知神经科学) |   考查   |   选修   |      |
+|        | [计算机组成原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机组成原理)|   考试   |   必修   |      |
+|        |                    语音识别与合成（暂无）                    |   考查   |   选修   |      |
+| 大三下 | [大数据处理与应用](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/大数据处理与应用) |  考试*   |   必修   |      |
+|        | [文本挖掘](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/文本挖掘) |   考查   |   选修   |      |
+|        | [机器学习实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/机器学习实践) |   考查   |   必修   |      |
+|        | [深度学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/深度学习) |  考试*   |   必修   |      |
+|        | [知识工程](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/知识工程) |   考查   |   选修   |      |
+|        | [编译原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/编译原理) |   考试   |   必修   |  ✅   |
+|        |                       模式识别（暂无）                       |   考查   |   选修   |      |
+|        |                   智能计算工程实践（暂无）                   |   考查   |   选修   |      |
+|        |                       人机交互（暂无）                       |   考查   |   选修   |      |
+|        |                      计算摄像学（暂无）                      |   考查   |   选修   |      |
 
 其中，*代表应为考试，但受疫情影响转为考查。
  
