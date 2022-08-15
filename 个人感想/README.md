@@ -7,3 +7,5 @@
 ### [# 关于保研](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/个人感想/关于保研.md)
 
 ### [# 关于夏令营](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/个人感想/关于夏令营.md)
+
+### [# 序](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/个人感想/序.md)
