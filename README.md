@@ -61,8 +61,8 @@
 | 大二下 | [人工智能](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/人工智能) |   考试   |   必修   |  ✅   |
 |        | [数字逻辑基础](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/数字逻辑基础) |   考试   |   必修   |      |
 |        | [数据库原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/数据库原理) |   考试   |   必修   |      |
-|        | [最优化方法](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/最优化方法) |   考试   |   选修   |      |
-|        | [机器学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/机器学习) |   考试   |   必修   |      |
+|        | [最优化方法](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/最优化方法) |   考查   |   选修   |      |
+|        | [机器学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/机器学习) |   考查   |   必修   |      |
 |        | [毛概](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/毛概) |   考试   |   必修   |      |
 |        | [矩阵分析](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/矩阵分析) |   考试   |   必修   |      |
 |        | [认知科学导论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/认知科学导论) |   考试   |   选修   |      |
