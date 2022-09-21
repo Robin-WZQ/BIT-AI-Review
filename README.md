@@ -48,7 +48,7 @@
 
 包含人工智能专业近90%的课程：
 
-|  学期  |                           课程名称                           | 考核方式 | 课程性质 | 往年试卷 | 我的大作业 |
+|  学期  |                           课程名称                           | 考核方式 | 课程性质 | 往年试卷 | 已开源大作业 |
 | :----: | :----------------------------------------------------------: | :------: | :------: | :--: | :--: |
 | 大二上 | [大学物理II](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/大学物理II) |   考试   |   必修   |  ✅   |      |
 |        | [程序设计实践小学期](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二上/小学期)|   机试   |   必修 |   |      |
@@ -81,7 +81,7 @@
 |        | [计算机组成原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机组成原理)|   考试   |   必修   |      |   ✅  |
 |        | [语音识别与合成](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/语音识别与合成)|   考查   |   选修   |      |      |
 | 大三下 | [大数据处理与应用](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/大数据处理与应用) |  考试*   |   必修   |      |   ✅  |
-|        | [文本挖掘](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/文本挖掘) |   考查   |   选修   |      |      |
+|        | [文本挖掘](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/文本挖掘) |   考查   |   选修   |      |   ✅   |
 |        | [机器学习实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/机器学习实践) |   考查   |   必修   |      |      |
 |        | [深度学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/深度学习) |  考试*   |   必修   |      |      |
 |        | [知识工程](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/知识工程) |   考查   |   选修   |      |   ✅  |
