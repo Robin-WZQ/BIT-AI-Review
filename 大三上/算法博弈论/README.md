@@ -4,7 +4,7 @@
 
 - 选修
 - 作业量：2个小作业（英文证明题题面+可以用中文回答）+1次论文阅读（要求英文，1000字+）
-- Grading: Homework (20*2) + Presentation/Report (50) +  Participation (10)
+- Grading: Homework (20*2) + term project (50) +  Participation (10)
 - 建议：尽量使用Latex完成
 - 英文课件
 - 内容主要是分配、拍卖、社会福利最大化等，有时会介绍一些相亲问题
