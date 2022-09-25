@@ -83,7 +83,7 @@
 | 大三下 | [大数据处理与应用](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/大数据处理与应用) |  考试*   |   必修   |      |   ✅  |
 |        | [文本挖掘](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/文本挖掘) |   考查   |   选修   |      |   ✅   |
 |        | [机器学习实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/机器学习实践) |   考查   |   必修   |      |      |
-|        | [深度学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/深度学习) |  考试*   |   必修   |      |      |
+|        | [深度学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/深度学习) |  考试*   |   必修   |      |  ✅  |
 |        | [知识工程](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/知识工程) |   考查   |   选修   |      |   ✅  |
 |        | [编译原理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三下/编译原理) |   考试   |   必修   |  ✅   |   ✅  |
 |        |                       模式识别（暂无）                       |   考查   |   选修   |      |      |
