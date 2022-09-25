@@ -73,7 +73,7 @@
 |        | [强化学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/强化学习) |   考查   |   选修   |      |      |
 |        | [操作系统](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/操作系统) |   考试   |   必修   |  ✅   |      |
 |        | [数字图像处理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/数字图像处理) |   考试   |   选修   |      |      |
-|        | [算法博弈论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/算法博弈论) |   考查   |   选修   |      |      |
+|        | [算法博弈论](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/算法博弈论) |   考查   |   选修   |      |  ✅   |
 |        | [自然语言处理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/自然语言处理) |   考试   |   必修   |      |      |
 |        | [计算机网络](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机网络) |   考试   |   选修   |      |      |
 |        | [计算机视觉](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/计算机视觉) |   考试   |   必修   |     |   ✅  |
