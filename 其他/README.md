@@ -1,6 +1,6 @@
 # 其他比较重要的问题
 
-> 一些不知道怎么归类的话
+> 最终去了计算所，经验啥的也还算能看
 
 ### [# 序](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/其他/序.md)
 
