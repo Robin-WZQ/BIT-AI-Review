@@ -69,7 +69,7 @@
 |        | [随机过程](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大二下/随机过程) |   考试   |   必修   |      |     |
 |        |                  面向对象技术与方法（暂无）                  |   考试   |   选修   |      |      |
 | 大三上 | [小学期工程实训](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/小学期工程实训) |   考查   |   必修   |      |   ✅  |
-|        | [并行编程实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/并行编程实践) |   考查   |   必修   |      |   ✅  |
+|        | [并行编程实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/并行编程实践) |   考查   |   必修   |      |     |
 |        | [强化学习](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/强化学习) |   考查   |   选修   |      |      |
 |        | [操作系统](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/操作系统) |   考试   |   必修   |  ✅   |      |
 |        | [数字图像处理](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大三上/数字图像处理) |   考试   |   选修   |      |      |
