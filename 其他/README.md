@@ -1,7 +1,5 @@
 # 其他比较重要的问题
 
-> 最终润去计算所了，经验啥的也还算能看
-
 ### [# 序](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/其他/序.md)
 
 ### [# 关于保研](https://github.com/Robin-WZQ/BIT-AI-Review/blob/main/其他/关于保研.md)
