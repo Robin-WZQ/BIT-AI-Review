@@ -15,10 +15,10 @@
 2. 以结果为导向。报告中不出现或只出现关键代码，流程以概要设计形式给出。文中展示图表，包括消融实验、参数影响等等。相比于第一种，这种报告更为简洁明了；
 3. 以思路为导向。这样的报告我一般是写大作业的论文中用到，对笔者的水平要求较高，因为是以论文的形式要求的。报告中完全不会出现代码，着重强调个人设计算法的原理推导、公式讲解，并以大量的实验图标等予以补充说明。
 
-最后，我建议无论什么样的报告都用Latex来写，因为不仅仅是将来肯定要和它打交道，主要是格式好看、排版不用操心，且一部分老师会有额外加分。
+最后，我建议无论什么样的报告都用LaTeX来写，因为不仅仅是将来肯定要和它打交道，主要是格式好看、排版不用操心，且一部分老师会有额外加分。
 
 
 
-注：Latex模板来源overleaf中 [HERE](https://www.overleaf.com/latex/templates/beijing-institute-of-technology-report-template/szxqnwxtbcrb) .
+注：LaTeX模板来源overleaf中 [HERE](https://www.overleaf.com/latex/templates/beijing-institute-of-technology-report-template/szxqnwxtbcrb) .
 
-更多有关Latex的报告请可以参考https://github.com/BITNP/BIThesis
+更多有关LaTeX的报告请可以参考https://github.com/BITNP/BIThesis

@@ -10,7 +10,7 @@
 
 ### 1. 网页下载
 
-在Github选择相应文件下载即可
+在GitHub选择相应文件下载即可
 
 ### 2. Clone全仓库
 
@@ -23,7 +23,7 @@ git clone https://github.com/Robin-WZQ/BIT-AI-Review.git
 git pull
 ```
 
-> 2010年后，Github支持`svn`命令，可通过svn下载特定目录
+> 2010年后，GitHub支持`svn`命令，可通过svn下载特定目录
 >
 > [svn 下载 github 上的单个目录或文件](https://www.runoob.com/w3cnote/svn-co-github-dir.html)
 
