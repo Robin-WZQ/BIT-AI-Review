@@ -32,3 +32,6 @@ git pull
 只要把目录链接拷贝粘贴，然后点击Download就可以下载目录的压缩文件
 
 或者在这里下载[git clone](https://gitclone.com/)
+
+### 4.CSDN
+资料放到[CSDN](https://download.csdn.net/download/weixin_45640306/86776443)上了
