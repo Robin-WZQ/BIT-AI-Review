@@ -91,8 +91,8 @@
 |        |                       人机交互（暂无）                       |   考查   |   选修   |      |      |
 |        |                      计算摄像学（暂无）                      |   考查   |   选修   |      |      |
 | 大四上 | [智能芯片与系统设计综合实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大四上/智能芯片与系统设计综合实践) |  考查  |  必修  |    |   ✅  |
-|        |                       机器翻译（暂无）                        |          |   选修   |      |      |
-|        | [自然语言处理项目实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大四上/自然语言处理项目实践) |          |   必修   |      |     |
+|        |                       机器翻译（暂无）                        |     考查     |   选修   |      |      |
+|        | [自然语言处理项目实践](https://github.com/Robin-WZQ/BIT-AI-Review/tree/main/大四上/自然语言处理项目实践) |     考查     |   必修   |      |     |
 
 其中，*代表应为考试，但受疫情影响可能转为考查。
 
