@@ -21,4 +21,4 @@
 
 注：LaTeX模板来源overleaf中 [HERE](https://www.overleaf.com/latex/templates/beijing-institute-of-technology-report-template/szxqnwxtbcrb) .
 
-更多有关LaTeX的报告请可以参考https://github.com/BITNP/BIThesis
+更多有关LaTeX的报告可以参考https://github.com/BITNP/BIThesis
