@@ -12,3 +12,4 @@
  
 ### 没事，大家熬过这学期就好了，奥里给！
 
+<img width="392" alt="2" src="https://github.com/Robin-WZQ/BIT-AI-Review/assets/60317828/350fa6a0-ec13-47b9-b5d3-81aeb765a32b">
