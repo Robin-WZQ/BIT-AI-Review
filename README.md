@@ -113,5 +113,6 @@
 
 快去看2020级ai专业的个人分享👉
 
-https://github.com/lyccyl1/BIT-AI
+- https://github.com/lyccyl1/BIT-AI
 
+- https://github.com/Z-Luan/BIT-AI
