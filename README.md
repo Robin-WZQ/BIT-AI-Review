@@ -5,7 +5,9 @@
 
 作为BIT本科第一届人工智能专业的学生，即小白鼠，踩过无数的坑，真黑暗中摸索前进。故将部分自己的资料整理至此，一为将来学弟学妹们更好地学习，二为总结一下之前的工作。目前GitHub上只有北理CS专业的相关资料整理，那么作为第一届AI专业的学生，也希望为后来者留下点什么。由于经验包时效性有限，也欢迎同届、以及后面的学弟学妹们进行补充或参与维护。希望北理人工智能专业越办越好！！！
 
-![doge](https://github.com/user-attachments/assets/f3380544-7de0-4772-ad0c-7c7b19db410c)
+<div align=left>
+<img src='https://github.com/user-attachments/assets/f3380544-7de0-4772-ad0c-7c7b19db410c' width=200>
+</div>
 
 ## 适合读者
 
